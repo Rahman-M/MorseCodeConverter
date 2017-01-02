@@ -1,0 +1,12 @@
+c:\users\mandol\documents\visual studio 2015\Projects\MorseConverter\MorseConverter\bin\Debug\MorseConverter.exe.config
+C:\Users\mandol\documents\visual studio 2015\Projects\MorseConverter\MorseConverter\bin\Debug\MorseConverter.exe
+C:\Users\mandol\documents\visual studio 2015\Projects\MorseConverter\MorseConverter\bin\Debug\MorseConverter.pdb
+C:\Users\mandol\documents\visual studio 2015\Projects\MorseConverter\MorseConverter\obj\Debug\MorseConverter.csprojResolveAssemblyReference.cache
+C:\Users\mandol\documents\visual studio 2015\Projects\MorseConverter\MorseConverter\obj\Debug\MorseConverter.exe
+C:\Users\mandol\documents\visual studio 2015\Projects\MorseConverter\MorseConverter\obj\Debug\MorseConverter.pdb
+C:\Users\mandol\Documents\GitHub\MorseCodeConverter\MorseConverter\MorseConverter\bin\Debug\MorseConverter.exe.config
+C:\Users\mandol\Documents\GitHub\MorseCodeConverter\MorseConverter\MorseConverter\obj\Debug\MorseConverter.exe
+C:\Users\mandol\Documents\GitHub\MorseCodeConverter\MorseConverter\MorseConverter\obj\Debug\MorseConverter.pdb
+C:\Users\mandol\Documents\GitHub\MorseCodeConverter\MorseConverter\MorseConverter\bin\Debug\MorseConverter.exe
+C:\Users\mandol\Documents\GitHub\MorseCodeConverter\MorseConverter\MorseConverter\bin\Debug\MorseConverter.pdb
+C:\Users\mandol\Documents\GitHub\MorseCodeConverter\MorseConverter\MorseConverter\obj\Debug\MorseConverter.csprojResolveAssemblyReference.cache
